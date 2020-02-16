@@ -1,2 +1,2 @@
 # Hackathon
-Wygrywamy hackathon!
+Wygrywamy hackathon od Google!
